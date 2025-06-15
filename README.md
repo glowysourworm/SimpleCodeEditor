@@ -1,2 +1,2 @@
-# SimpleCodeEditor
-AvalonEdit based code editor.
+# SimpleNotepad
+A text editor / code editor based on SimpleWpf
